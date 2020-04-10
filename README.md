@@ -1,6 +1,6 @@
 # sublime-config
 
-**Packages installed (Sublime Text 3):
+*Packages installed (Sublime Text 3):*
 
 1. BracketHighlighter
 2. Package Control
