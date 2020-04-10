@@ -6,3 +6,4 @@
 2. Package Control
 3. Sidebar Enhancements
 4. Anaconda
+5. Phyton Flake8 Lint
